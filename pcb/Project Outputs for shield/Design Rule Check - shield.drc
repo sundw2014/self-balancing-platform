@@ -1,0 +1,72 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\sundw\self-balancing-platform\pcb\shield.PcbDoc
+Date     : 2016/9/23
+Time     : 11:31:28
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Pad U2-4(-36.83mm,55.495mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Pad U1-4(-47.625mm,55.495mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Pad U5-4(-9.525mm,55.495mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Pad U4-4(-20.32mm,55.495mm) on Top Layer 
+Rule Violations :4
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=12.7mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=10mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Via (-12.954mm,-24.638mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (-13.97mm,-24.638mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (-14.986mm,-24.638mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (-16.002mm,-24.638mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (-18.034mm,-24.638mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (-19.05mm,-24.638mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (-20.066mm,-24.638mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (-12.954mm,-25.654mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (-13.97mm,-25.654mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (-14.986mm,-25.654mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (-16.002mm,-25.654mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (-18.034mm,-25.654mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (-19.05mm,-25.654mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (-20.066mm,-25.654mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (-12.954mm,-27.686mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (-13.97mm,-27.686mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (-14.986mm,-27.686mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (-16.002mm,-27.686mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (-18.034mm,-27.686mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (-19.05mm,-27.686mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (-20.066mm,-27.686mm) from Top Layer to Bottom Layer 
+Rule Violations :21
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+
+Violations Detected : 25
+Time Elapsed        : 00:00:02
